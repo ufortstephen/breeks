@@ -1,5 +1,11 @@
 <template>
-  <Tutorial/>
+  <div>
+  <Navbar />
+  <Hero />
+  <Pricing />
+  <Footer />
+  
+  </div>
 </template>
 
 <script>
